@@ -1,4 +1,4 @@
-Today is the day I start with my git lessons.
+This is for Testing conflicts.
 
-This is for testing conflicts.
+This is from the feature branch.
 
