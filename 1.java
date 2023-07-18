@@ -1,4 +1,5 @@
-This is for testing conflicts.
-This is from the defect branch.
 
+This is for Testing conflicts.
+This is from the feature branch.
+This is from the defect branch
 
